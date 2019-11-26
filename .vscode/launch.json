@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex1144",
+            "request": "launch",
+            "mainClass": "problemas.Ex1144",
+            "projectName": "treinamentojavaUOJ"
+        }
+    ]
+}
